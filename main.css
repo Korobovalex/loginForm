@@ -85,3 +85,8 @@ input, textarea input:active, textarea:active, input:focus, input:invalid {
 	cursor: pointer;
 	border-radius: 5px;
 }
+
+.login__submit:hover {
+	-webkit-box-shadow: 0 0 7px #19C5FF;
+	box-shadow: 0 0 7px #19C5FF;
+}
